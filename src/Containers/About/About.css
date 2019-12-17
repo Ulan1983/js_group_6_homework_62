@@ -1,0 +1,14 @@
+.about {
+	background: crimson;
+	padding: 50px;
+	text-align: center;
+}
+
+.about h4 {
+	font-size: 24px;
+	color: aliceblue;
+}
+
+.about p {
+	text-align: left;
+}

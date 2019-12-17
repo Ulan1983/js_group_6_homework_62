@@ -1,0 +1,10 @@
+.movies {
+	margin: 0;
+}
+
+.movies_wrapper {
+	display: flex;
+	justify-content: space-between;
+	background: crimson;
+	padding: 0 15px;
+}
